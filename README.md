@@ -18,7 +18,7 @@ Only the first one is really nice, but the others are interesting as well.
 | :--- | :--- |
 | K-Noid with 2 Noid | <img src="images/7.jpg" width="250"> |
 | K-Noid with 3 Noid | <img src="images/6.jpg" width="250"> |
-| K-Noid with 4 Noid | <img src="images/4.jpg" width="250"> |
+| K-Noid with 4 Noid | <img src="images/5.jpg" width="250"> |
 | K-Noid with 5 Noid | <img src="images/8.png" width="250"> |
 | K-Noid with a Value of 2.5 | <img src="images/9.jpg" width="250"> |
 | K-Noid with a Value of 1.5 | <img src="images/10.jpg" width="250"> |
