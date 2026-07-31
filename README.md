@@ -8,6 +8,9 @@ This is a Blender Add-on to generate a K-Noid minimal surface. It adds a panel t
 # Screen Shot
 ![Banner Image](images/screen.jpg)
 
+## Install or Run
+you don´t have to make a add-on to run it just paste the certain script in the blender script editor and press run. all variants have a n-panel entry.
+
 ## The Background
 When I tired to develop an add-on  to generate k-noid minimal surfaces, I found that I have not enough skills and understanding to do it by my own. So I asked ChatGpt & co for help. The idea behind this add-on was to create a simple way to create k-noid mathematic minimal surface. You find the main "add-on" script (it is a pre-add-on) that can run as usual in the Blender script editor. But also you find two variations from "deep seek" (see pictures) and a base with mpmath, made by ChatGpt. 
 
