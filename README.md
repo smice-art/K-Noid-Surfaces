@@ -2,6 +2,9 @@
   <img src="images/addon.jpg" alt="K-Noid Generator width="100%">
 </p>
 
+# Info ⚠️
+Please excuse me regarding the correct mathematical terms; I am unfortunately not a mathematician, so they are sometimes certainly not correct.
+
 # k-Noid Surfaces
 This is a Blender Add-on to generate a K-Noid minimal surface. It adds a panel to the 3D View's "N-Panel" (side panel).
 
